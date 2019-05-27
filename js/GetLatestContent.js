@@ -2,7 +2,7 @@
 const KenticoCloud = require('kentico-cloud-delivery');
 
 // Create strongly typed models according to https://developer.kenticocloud.com/docs/strongly-typed-models
-class Article extends KenticoCloud.ContentItem22 {
+class Article extends KenticoCloud.ContentItem222 {
     constructor() {
         super();
     }
