@@ -1,8 +1,8 @@
-// DocSection: using_webhooks_get_latest_content
+// DocSection: using_webhooks_get_latest_content2
 const KenticoCloud = require('kentico-cloud-delivery');
 
 // Create strongly typed models according to https://developer.kenticocloud.com/docs/strongly-typed-models
-class Article extends KenticoCloud.ContentItem2 {
+class Article extends KenticoCloud.ContentItem22 {
     constructor() {
         super();
     }
