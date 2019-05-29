@@ -1,4 +1,4 @@
-// DocSection: test_codename_voelh82ghi
+// DocSection: test_codename_uxhc0vojv9
 const KenticoCloud = require('kentico-cloud-delivery');
 
 // Create strongly typed models according to https://developer.kenticocloud.com/docs/strongly-typed-models
@@ -7,7 +7,7 @@ class Article extends KenticoCloud.ContentItem222 {
         super();
     }
 }
-const deliveryClient = new javascript code sample_aKwFkzvIWe({
+const deliveryClient = new javascript code sample_pOL5aRFH5e({
     projectId: '975bf280-fd91-488c-994c-2f04416e5ee3',
     typeResolvers: [
         new KenticoCloud.TypeResolver('article', () => new Article())
